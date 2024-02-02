@@ -419,18 +419,18 @@ a{
     
 }
 #project1{
-    background-image: url(/PortfolioWebsite/PortFolioASSESTS/projects/Project1.png);
+    background-image: url(PortFolioASSESTS/projects/Project1.png);
 }
 #project2{
     margin-left: 120px;
-    background-image: url(/PortfolioWebsite/PortFolioASSESTS/projects/Project2.png);
+    background-image: url(PortFolioASSESTS/projects/Project2.png);
 }
 #project3{
-    background-image: url(/PortfolioWebsite/PortFolioASSESTS/projects/Project3.png);
+    background-image: url(PortFolioASSESTS/projects/Project3.png);
 }
 #project4{
     margin-left: 120px;
-    background-image: url(/PortfolioWebsite/PortFolioASSESTS/projects/Project4.png);
+    background-image: url(PortFolioASSESTS/projects/Project4.png);
 }
 #project3 .project-subheading{
     width: 90%;
